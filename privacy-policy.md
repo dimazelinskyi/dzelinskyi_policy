@@ -1,47 +1,46 @@
-Privacy Policy  
+Політика конфіденційності
 ----------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at BookMe, how BookMe uses it, and what choices you have.
-BookMe built the BookMe app as a free app. This SERVICE is provided by BookMe at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+### Вступ
+Наша політика конфіденційності допоможе вам зрозуміти, яку інформацію ми збираємо в BookMe, як BookMe її використовує та які у вас є варіанти вибору.
+BookMe створив додатки BookMe та BookMe Biz як безкоштовні додатки. Цю ПОСЛУГУ надає BookMe безкоштовно та призначено для використання як є.
+Якщо ви вирішите використовувати наш Сервіс, ви погоджуєтеся на збір і використання інформації у зв’язку з цією політикою. Особиста інформація, яку ми збираємо, використовується для надання та покращення Сервісу. Ми не використовуватимемо вашу інформацію та не передамо її нікому, крім випадків, описаних у цій Політиці конфіденційності.
+Терміни, які використовуються в цій Політиці конфіденційності, мають таке ж значення, як і в наших Умовах використання, доступ до яких розміщено на нашому веб-сайті, якщо інше не визначено в цій Політиці конфіденційності.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### Збір і використання інформації
+Для кращого використання нашого Сервісу ми можемо вимагати від вас надати нам певну особисту інформацію, включаючи, але не обмежуючись, ім’я користувача, адресу електронної пошти, стать, місцезнаходження, зображення. Інформація, яку ми запитуємо, зберігатиметься нами та використовуватиметься, як описано в цій політиці конфіденційності.
+Додаток використовує служби сторонніх розробників, які можуть збирати інформацію, яка використовується для вашої ідентифікації.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### Cookies
+Файли cookie – це файли з невеликою кількістю даних, які зазвичай використовуються як анонімний унікальний ідентифікатор. Вони надсилаються у ваш браузер із веб-сайту, який ви відвідуєте, і зберігаються у внутрішній пам’яті вашого пристрою.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Ця Служба не використовує ці «куки» явно. Проте програма може використовувати сторонній код і бібліотеки, які використовують «куки» для збору інформації та покращення своїх послуг. У вас є можливість прийняти або відмовитися від цих файлів cookie та знати, коли файли cookie надсилаються на ваш пристрій. Якщо ви вирішите відмовитися від наших файлів cookie, можливо, ви не зможете використовувати деякі частини цієї служби.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+### Інформація про місцезнаходження
+Деякі служби можуть використовувати інформацію про місцезнаходження, яка передається з мобільних телефонів користувачів. Ми використовуємо цю інформацію лише в межах, необхідних для визначеної служби.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Інформація про пристрій
+У деяких випадках ми збираємо інформацію з вашого пристрою. Інформація буде використана для надання кращого обслуговування та запобігання шахрайським діям. Крім того, така інформація не включатиме інформацію, яка ідентифікує окремого користувача.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+### Постачальники послуг
+Ми можемо наймати сторонні компанії та фізичних осіб з таких причин:
+* Щоб полегшити наш сервіс;
+* Для надання Сервісу від нашого імені;
+* Надавати пов'язані з послугами послуги; або
+* Щоб допомогти нам проаналізувати, як використовується наш Сервіс.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+Ми хочемо повідомити користувачів цієї служби, що ці треті сторони мають доступ до вашої особистої інформації. Причина — виконання покладених на них завдань від нашого імені. Однак вони зобов’язані не розголошувати та не використовувати інформацію для будь-яких інших цілей.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### Безпека
+Ми цінуємо вашу довіру щодо надання нам вашої Особистої інформації, тому ми прагнемо використовувати комерційно прийнятні засоби її захисту. Але пам’ятайте, що жоден метод передачі через Інтернет або метод електронного зберігання не є на 100% безпечним і надійним, і ми не можемо гарантувати його абсолютну безпеку.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### Конфіденційність дітей
+Ці Послуги не стосуються осіб віком до 13 років. Ми свідомо не збираємо особисту інформацію дітей віком до 13 років. Якщо ми виявляємо, що дитина віком до 13 років надала нам особисту інформацію, ми негайно видаляємо її з наших серверів. Якщо ви є батьком або опікуном і знаєте, що ваша дитина надала нам особисту інформацію, будь ласка, зв’яжіться з нами, щоб ми змогли виконати необхідні дії.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### Зміни в цій Політиці конфіденційності
+Час від часу ми можемо оновлювати нашу Політику конфіденційності. Тому радимо періодично переглядати цю сторінку на предмет будь-яких змін. Ми повідомимо вас про будь-які зміни, опублікувавши нову Політику конфіденційності на цій сторінці. Ці зміни набувають чинності негайно після їх публікації на цій сторінці.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: dmytro.zelinskyi@gmail.com
-
+### Зв'яжіться з нами
+Якщо у вас є запитання чи пропозиції щодо нашої Політики конфіденційності, не соромтеся зв’язатися з нами.
+Контактна інформація:
+Електронна адреса: dmytro.zelinskyi@gmail.com
